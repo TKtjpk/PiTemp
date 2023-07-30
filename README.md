@@ -1,6 +1,6 @@
 # MyApp Part 1: Data Collector
 
-PiTemp is a complex application that consists of three parts (PiTemp, mysql_db Docker container, Java API written in Spring Web. This README file specifically covers Part 1, the Data Collector component, which is a simple Python application. This component is designed to be containerized using Docker and will connect to a MySQL container within the Docker local network to store data in a database.
+PiTemp is a complex application that consists of three parts (PiTemp, localAPIserver Java / Spring MVC - API model & GraphRepersentation client written in Swift for MacOS (very basic version at the moment). This README file specifically covers Part 1, the Data Collector component, which is a simple Python application. This component is designed to be containerized using Docker and will connect to a MySQL container within the Docker local network to store data in a database.
 
 ## Table of Contents
 1. [Introduction](#introduction)
